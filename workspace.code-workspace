@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\html\\fonction"
+		},
+		{
+			"path": "..\\..\\html\\a lists"
+		},
+		{
+			"path": "..\\..\\css grid"
+		},
+		{
+			"path": "..\\..\\Nouveau dossier"
+		},
+		{
+			"path": "..\\..\\dsports"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "fonction"
+	}
+}
